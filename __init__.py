@@ -6,13 +6,13 @@ import math
 def main():
     input = PreProcess.parse()
     clusters = []
-    k = 24
+    k = 10
     clusters_temp = K_Means.K_Means(input, k).get_clusters()
     for cluster in clusters_temp:
         clusters.append(cluster.points)
     with open("output.txt", "a")   as out:
         out.write("\n\nClusters:")
-        out.write("\n\nOrder of Features: numPasses,numTouches,ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored")
+        out.write("\n\nOrder of Features: numPasses, numTouches, totalPointsPlayed, ours, theirs, totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored")
         for cluster in clusters:
             out.write("\n\nCluster" + str(cluster))
         out.write("\n\nNumClusters: " + str(len(clusters)))

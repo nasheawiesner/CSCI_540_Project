@@ -23,8 +23,16 @@ def parse():
         data = json.loads(input_file.read())
 
     possessions = []
+
     for i in data:  #iterate through games
+        player_point_count = []
+        totalPointsPlayed = 0
         for j in i['pointsJson']: #iterate through events
+            for player in j["line"]:
+                if player not in player_point_count:
+                    player_point_count.extend([player,int(1)])
+                else:
+                    player_point_count[player_point_count.index(player) + 1] += 1
             first = True
             possession = []
             poss_count = 0
@@ -54,9 +62,12 @@ def parse():
                     if k['receiver'] not in distinctPlayers and k['receiver'] != "Anonymous":
                         distinctPlayers.append(k['receiver'])
                         numTouches += 1
-                    if j['events'][(index + 1) % len(j['events'])]['type'] != "Offense" or index == (len(j['events']) - 1):  #if the ball gets transferred to other team
+                    if j['events'][(index + 1) % len(j['events'])]['type'] != "Offense" or index == (len(j['events']) - 1):  #if the ball gets transferred to other team the next action or it's the end of the point
                         possession = []
                         poss_count += 1
+                        totalPointsPlayed = 0
+                        for player in j["line"]:
+                            totalPointsPlayed += player_point_count[player_point_count.index(player) + 1]
                         ours = int(j['summary']['score']['ours'])
                         theirs = int(j['summary']['score']['theirs'])
                         totalPoints = ours + theirs
@@ -75,8 +86,8 @@ def parse():
                         else:
                             lineType = 0
                             pull_start = 0
-                        possession.extend([numPasses,numTouches,ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored])
-                        print(possession)
+                        possession.extend([numPasses,numTouches,totalPointsPlayed, ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored])
+                        #print(possession)
                         possessions.append(possession)
                 elif k['type'] == "Defense":
                     possession = []
