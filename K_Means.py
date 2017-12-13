@@ -49,10 +49,13 @@ class K_Means:
                 break
             iteration += 1
         index = 1
+        with open("output.txt", "w") as out:
+            out.write("")
         for i in clusters:
-            print(("Cluster " + str(index) + " has " + str(len(i.points)) + " data points with centroid " + str(
-                i.centroid)))
-            print("--------------------------------------------------------------")
+            with open("output.txt", "a") as out:
+                out.write("\nCluster " + str(index) + " has " + str(len(i.points)) + " data points with centroid " + str(
+                    i.centroid))
+                out.write("\n--------------------------------------------------------------")
             index += 1
             """used for RBF"""
             #if len(i.points) != 0:

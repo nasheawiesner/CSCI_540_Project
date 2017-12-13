@@ -6,11 +6,21 @@ import math
 def main():
     input = PreProcess.parse()
     clusters = []
-    k = 25
+    k = 24
     clusters_temp = K_Means.K_Means(input, k).get_clusters()
     for cluster in clusters_temp:
         clusters.append(cluster.points)
-    evaluate_cluster(clusters)
+    with open("output.txt", "a")   as out:
+        out.write("\n\nClusters:")
+        out.write("\n\nOrder of Features: numPasses,numTouches,ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count")
+        for cluster in clusters:
+            out.write("\n\nCluster" + str(cluster))
+        out.write("\n\nNumClusters: " + str(len(clusters)))
+        out.write("\n\nNumPerCluster: " + str([len(x) for x in clusters]))
+        coh, sep = evaluate_cluster(clusters)
+        out.write("\n\nCohesion: " + str(coh))
+        out.write("\n\nSeperation:  " + str(sep))
+
 
 def get_distance( a, b):  # euclidean distance between two n-dimensional points
     difference = 0.0
@@ -28,8 +38,7 @@ def evaluate_cluster(clusters):    #handler for calculating the cohesion and sep
         for cluster2index in range(clusters.index(cluster1), len(clusters)):
             if cluster1 != clusters[cluster2index]:
                 sep += separation(cluster1, clusters[cluster2index])
-    print("\nCohesion:", coh)
-    print("\nSeperation: ", sep)
+    return coh, sep
 
 def cohesian(cluster):
     """Computes the cohesian of the cluster set
