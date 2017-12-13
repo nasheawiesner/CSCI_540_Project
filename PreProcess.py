@@ -41,10 +41,13 @@ def parse():
             day = ""
             lineType = 0
             pull_start = 0
+            scored = 0
             for k in j['events']:  #iterate through actions
                 index = j['events'].index(k)
                 if k['type'] == "Offense":
                     numPasses += 1
+                    if k["action"] == "Goal":
+                        scored = 1
                     if k['passer'] not in distinctPlayers and k['passer'] != "Anonymous":
                         distinctPlayers.append(k['passer'])
                         numTouches += 1
@@ -72,7 +75,7 @@ def parse():
                         else:
                             lineType = 0
                             pull_start = 0
-                        possession.extend([numPasses,numTouches,ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count])
+                        possession.extend([numPasses,numTouches,ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored])
                         print(possession)
                         possessions.append(possession)
                 elif k['type'] == "Defense":
