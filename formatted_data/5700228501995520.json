@@ -3993,10 +3993,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-06-18 21:31",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -7323,10 +7323,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-05-08 20:24",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -10906,10 +10906,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-06-18 21:31",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5700228501995520",
@@ -14152,10 +14152,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-06-18 21:31",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5700228501995520",
@@ -18276,10 +18276,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-05-01 21:27",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -22314,10 +22314,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-07-17 13:54",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -26026,10 +26026,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-05-01 21:59",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5700228501995520",
@@ -29689,10 +29689,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-06-18 21:31",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -32388,10 +32388,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-06-18 21:31",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5700228501995520",
@@ -36543,10 +36543,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-07-23 14:15",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5700228501995520",
@@ -40208,10 +40208,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-07-24 14:11",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -43689,10 +43689,10 @@
          "quotaFloaters": 0
       },
       "lastUpdateUtc": "2017-06-25 22:00",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5700228501995520",
@@ -45935,4 +45935,5844 @@
                   "action": "Goal",
                   "receiver": "Scott",
                   "timestamp": 520036451,
-                 
+                  "passer": "Nick B"
+               }
+            ],
+            "startSeconds": 520036290,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Jordan M",
+               "Laurent",
+               "Nick B",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520036453
+         },
+         {
+            "summary": {
+               "elapsedTime": 76,
+               "score": {
+                  "ours": 12,
+                  "theirs": 11
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Bevan",
+                  "details": {
+                     "hangtime": 7565
+                  },
+                  "timestamp": 520036508
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520036582,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520036508,
+            "line": [
+               "Bevan",
+               "Colin F",
+               "Cooper B",
+               "Erik H",
+               "Kyle",
+               "Paul M",
+               "Tyler S"
+            ],
+            "endSeconds": 520036584
+         },
+         {
+            "summary": {
+               "elapsedTime": 38,
+               "score": {
+                  "ours": 12,
+                  "theirs": 12
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520036640,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520036650,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520036657,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520036660,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520036664,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520036672,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520036676,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520036640,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520036678
+         },
+         {
+            "summary": {
+               "elapsedTime": 30,
+               "score": {
+                  "ours": 13,
+                  "theirs": 12
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520036728,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520036736,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520036741,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520036747,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520036756,
+                  "passer": "Nick B"
+               }
+            ],
+            "startSeconds": 520036728,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520036758
+         },
+         {
+            "summary": {
+               "elapsedTime": 22,
+               "score": {
+                  "ours": 13,
+                  "theirs": 13
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Pierre L",
+                  "details": {
+                     "hangtime": 6868
+                  },
+                  "timestamp": 520036817
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520036837,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520036817,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jordan M",
+               "Khalid",
+               "Owen W",
+               "Pierre L",
+               "Russ N"
+            ],
+            "endSeconds": 520036839
+         },
+         {
+            "summary": {
+               "elapsedTime": 122,
+               "score": {
+                  "ours": 14,
+                  "theirs": 13
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520036885,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520036895,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520036901,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Ken",
+                  "timestamp": 520036905,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520036909,
+                  "passer": "Ken"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520036913,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520036917,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520036922,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520036944,
+                  "defender": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520036967,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520036973,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520036980,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Ken",
+                  "timestamp": 520036983,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520036993,
+                  "passer": "Ken"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520036997,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Ken",
+                  "timestamp": 520037001,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Laurent",
+                  "timestamp": 520037005,
+                  "passer": "Ken"
+               }
+            ],
+            "startSeconds": 520036885,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520037007
+         },
+         {
+            "summary": {
+               "elapsedTime": 44,
+               "score": {
+                  "ours": 14,
+                  "theirs": 14
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Pierre L",
+                  "details": {
+                     "hangtime": 4838
+                  },
+                  "timestamp": 520037061
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520037103,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520037061,
+            "line": [
+               "Bevan",
+               "Colin F",
+               "Erik H",
+               "Kyle",
+               "Paul M",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520037105
+         },
+         {
+            "summary": {
+               "elapsedTime": 24,
+               "score": {
+                  "ours": 15,
+                  "theirs": 14
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520037168,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520037177,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520037184,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Scott",
+                  "timestamp": 520037190,
+                  "passer": "Nick B"
+               }
+            ],
+            "startSeconds": 520037168,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520037192
+         },
+         {
+            "summary": {
+               "elapsedTime": 44,
+               "score": {
+                  "ours": 15,
+                  "theirs": 15
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 5389
+                  },
+                  "timestamp": 520037252
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520037294,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520037252,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jordan M",
+               "Khalid",
+               "Owen W",
+               "Russ N",
+               "Tyler S"
+            ],
+            "endSeconds": 520037296
+         },
+         {
+            "summary": {
+               "elapsedTime": 103,
+               "score": {
+                  "ours": 15,
+                  "theirs": 16
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520037356,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520037365,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520037369,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520037374,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520037398,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520037411,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520037415,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520037419,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520037422,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520037426,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520037433,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520037439,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520037457,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520037356,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520037459
+         },
+         {
+            "summary": {
+               "elapsedTime": 23,
+               "score": {
+                  "ours": 15,
+                  "theirs": 17
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Russ N",
+                  "timestamp": 520037677,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520037686,
+                  "passer": "Russ N"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520037690,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520037694,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520037698,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520037677,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Nick B",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520037700
+         },
+         {
+            "summary": {
+               "elapsedTime": 25,
+               "score": {
+                  "ours": 15,
+                  "theirs": 17
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520037758,
+                  "passer": "Bevan"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520037767,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520037771,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Russ N",
+                  "timestamp": 520037774,
+                  "passer": "Scott"
+               },
+               {
+                  "action": "EndOfThirdQuarter",
+                  "type": "Cessation",
+                  "timestamp": 520037781
+               }
+            ],
+            "startSeconds": 520037758,
+            "line": [
+               "Bevan",
+               "Jeremy H",
+               "Laurent",
+               "Nick B",
+               "Owen W",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520037783
+         },
+         {
+            "summary": {
+               "elapsedTime": 19,
+               "score": {
+                  "ours": 16,
+                  "theirs": 17
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520038011,
+                  "passer": "Ken"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520038020,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520038024,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520038028,
+                  "passer": "Nick B"
+               }
+            ],
+            "startSeconds": 520038011,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520038030
+         },
+         {
+            "summary": {
+               "elapsedTime": 79,
+               "score": {
+                  "ours": 17,
+                  "theirs": 17
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 6788
+                  },
+                  "timestamp": 520038077
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520038101,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Khalid",
+                  "timestamp": 520038126,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Cooper B",
+                  "timestamp": 520038131,
+                  "passer": "Khalid"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520038135,
+                  "passer": "Cooper B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520038139,
+                  "passer": "Pierre L"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Khalid",
+                  "timestamp": 520038146,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul M",
+                  "timestamp": 520038150,
+                  "passer": "Khalid"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Kyle",
+                  "timestamp": 520038154,
+                  "passer": "Paul M"
+               }
+            ],
+            "startSeconds": 520038077,
+            "line": [
+               "Carson T",
+               "Colin F",
+               "Cooper B",
+               "Khalid",
+               "Kyle",
+               "Paul M",
+               "Pierre L"
+            ],
+            "endSeconds": 520038156
+         },
+         {
+            "summary": {
+               "elapsedTime": 49,
+               "score": {
+                  "ours": 17,
+                  "theirs": 18
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Bevan",
+                  "details": {
+                     "hangtime": 7243
+                  },
+                  "timestamp": 520038211
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520038258,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520038211,
+            "line": [
+               "Bevan",
+               "Erik H",
+               "Jordan M",
+               "Khalid",
+               "Owen W",
+               "Russ N",
+               "Tyler S"
+            ],
+            "endSeconds": 520038260
+         },
+         {
+            "summary": {
+               "elapsedTime": 24,
+               "score": {
+                  "ours": 18,
+                  "theirs": 18
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520038323,
+                  "passer": "Ken"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520038332,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520038337,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Laurent",
+                  "timestamp": 520038345,
+                  "passer": "Nick B"
+               }
+            ],
+            "startSeconds": 520038323,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520038347
+         },
+         {
+            "summary": {
+               "elapsedTime": 44,
+               "score": {
+                  "ours": 18,
+                  "theirs": 19
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Pierre L",
+                  "details": {
+                     "hangtime": 6756
+                  },
+                  "timestamp": 520038400
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520038442,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520038400,
+            "line": [
+               "Carson T",
+               "Colin F",
+               "Erik H",
+               "Kyle",
+               "Owen W",
+               "Paul M",
+               "Pierre L"
+            ],
+            "endSeconds": 520038444
+         },
+         {
+            "summary": {
+               "elapsedTime": 79,
+               "score": {
+                  "ours": 18,
+                  "theirs": 20
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520038506,
+                  "passer": "Ken"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520038514,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520038517,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520038523,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520038526,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520038531,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520038583,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520038506,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Ken",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520038585
+         },
+         {
+            "summary": {
+               "elapsedTime": 24,
+               "score": {
+                  "ours": 19,
+                  "theirs": 20
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520038644,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Russ N",
+                  "timestamp": 520038656,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Ken",
+                  "timestamp": 520038666,
+                  "passer": "Russ N"
+               }
+            ],
+            "startSeconds": 520038644,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jeremy H",
+               "Jordan M",
+               "Ken",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520038668
+         },
+         {
+            "summary": {
+               "elapsedTime": 55,
+               "score": {
+                  "ours": 20,
+                  "theirs": 20
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Bevan",
+                  "details": {
+                     "hangtime": 7663
+                  },
+                  "timestamp": 520038728
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520038745,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Owen W",
+                  "timestamp": 520038772,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520038777,
+                  "passer": "Owen W"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Paul M",
+                  "timestamp": 520038781,
+                  "passer": "Pierre L"
+               }
+            ],
+            "startSeconds": 520038728,
+            "line": [
+               "Bevan",
+               "Colin F",
+               "Erik H",
+               "Owen W",
+               "Paul M",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520038783
+         },
+         {
+            "summary": {
+               "elapsedTime": 58,
+               "score": {
+                  "ours": 20,
+                  "theirs": 21
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "PullOb",
+                  "timestamp": 520038846,
+                  "defender": "Bevan"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520038902,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520038846,
+            "line": [
+               "Bevan",
+               "Carson T",
+               "Erik H",
+               "Jordan M",
+               "Paul M",
+               "Russ N",
+               "Tyler S"
+            ],
+            "endSeconds": 520038904
+         },
+         {
+            "summary": {
+               "elapsedTime": 34,
+               "score": {
+                  "ours": 20,
+                  "theirs": 22
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520038967,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520038975,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520038985,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520038999,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520038967,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520039001
+         },
+         {
+            "summary": {
+               "elapsedTime": 68,
+               "score": {
+                  "ours": 21,
+                  "theirs": 22
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520039061,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520039069,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520039076,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520039080,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Russ N",
+                  "timestamp": 520039084,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520039088,
+                  "passer": "Russ N"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Russ N",
+                  "timestamp": 520039092,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520039119,
+                  "passer": "Russ N"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520039123,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Carson T",
+                  "timestamp": 520039127,
+                  "passer": "Scott"
+               }
+            ],
+            "startSeconds": 520039061,
+            "line": [
+               "Andy O",
+               "Carson T",
+               "Jeremy H",
+               "Jordan M",
+               "Nick B",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520039129
+         },
+         {
+            "summary": {
+               "elapsedTime": 27,
+               "score": {
+                  "ours": 21,
+                  "theirs": 23
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Erik H",
+                  "details": {
+                     "hangtime": 5649
+                  },
+                  "timestamp": 520039159
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520039184,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520039159,
+            "line": [
+               "Colin F",
+               "Cooper B",
+               "Erik H",
+               "Khalid",
+               "Kyle",
+               "Owen W",
+               "Paul M"
+            ],
+            "endSeconds": 520039186
+         },
+         {
+            "substitutions": [
+               {
+                  "fromPlayer": "Andy O",
+                  "reason": "other",
+                  "toPlayer": "Paul M",
+                  "timestamp": 5.20039424E8
+               },
+               {
+                  "fromPlayer": "Jeremy H",
+                  "reason": "other",
+                  "toPlayer": "Tyler S",
+                  "timestamp": 5.20039424E8
+               },
+               {
+                  "fromPlayer": "Laurent",
+                  "reason": "other",
+                  "toPlayer": "Cooper B",
+                  "timestamp": 5.20039456E8
+               },
+               {
+                  "fromPlayer": "Léon FN",
+                  "reason": "other",
+                  "toPlayer": "Jordan M",
+                  "timestamp": 5.20039456E8
+               },
+               {
+                  "fromPlayer": "Nick B",
+                  "reason": "other",
+                  "toPlayer": "Carson T",
+                  "timestamp": 5.20039456E8
+               },
+               {
+                  "fromPlayer": "Russ N",
+                  "reason": "other",
+                  "toPlayer": "Pierre L",
+                  "timestamp": 5.20039456E8
+               },
+               {
+                  "fromPlayer": "Scott",
+                  "reason": "other",
+                  "toPlayer": "Bevan",
+                  "timestamp": 5.20039456E8
+               },
+               {
+                  "fromPlayer": "Bevan",
+                  "reason": "other",
+                  "toPlayer": "Léon FN",
+                  "timestamp": 5.20039584E8
+               },
+               {
+                  "fromPlayer": "Carson T",
+                  "reason": "other",
+                  "toPlayer": "Russ N",
+                  "timestamp": 5.20039584E8
+               },
+               {
+                  "fromPlayer": "Jordan M",
+                  "reason": "other",
+                  "toPlayer": "Laurent",
+                  "timestamp": 5.20039616E8
+               },
+               {
+                  "fromPlayer": "Cooper B",
+                  "reason": "other",
+                  "toPlayer": "Scott",
+                  "timestamp": 5.20039616E8
+               },
+               {
+                  "fromPlayer": "Paul M",
+                  "reason": "other",
+                  "toPlayer": "Nick B",
+                  "timestamp": 5.20039616E8
+               },
+               {
+                  "fromPlayer": "Pierre L",
+                  "reason": "other",
+                  "toPlayer": "Andy O",
+                  "timestamp": 5.20039648E8
+               },
+               {
+                  "fromPlayer": "Tyler S",
+                  "reason": "other",
+                  "toPlayer": "Jeremy H",
+                  "timestamp": 5.20039648E8
+               }
+            ],
+            "summary": {
+               "elapsedTime": 417,
+               "score": {
+                  "ours": 22,
+                  "theirs": 23
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520039260,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520039268,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520039272,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520039276,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520039287,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520039291,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520039302,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520039315,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520039345,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520039350,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520039355,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520039358,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520039361,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520039365,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520039369,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520039373,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520039382,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520039538,
+                  "defender": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520039545,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Bevan",
+                  "timestamp": 520039548,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520039553,
+                  "passer": "Bevan"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520039556,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520039559,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520039565,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520039658,
+                  "passer": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520039671,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520039675,
+                  "passer": "Scott"
+               }
+            ],
+            "startSeconds": 520039260,
+            "line": [
+               "Andy O",
+               "Jeremy H",
+               "Laurent",
+               "Léon FN",
+               "Nick B",
+               "Russ N",
+               "Scott"
+            ],
+            "endSeconds": 520039677
+         },
+         {
+            "summary": {
+               "elapsedTime": 883,
+               "score": {
+                  "ours": 22,
+                  "theirs": 23
+               },
+               "lineType": "D",
+               "finished": false
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 2892
+                  },
+                  "timestamp": 520039733
+               }
+            ],
+            "startSeconds": 520039733,
+            "endSeconds": 520040616
+         }
+      ],
+      "wind": {
+         "mph": 0,
+         "degrees": -1,
+         "leftToRight": true
+      },
+      "timestamp": "2017-06-24 17:14",
+      "date": "Sat, 6/24",
+      "time": "5:14",
+      "msSinceEpoch": 1498324440000,
+      "ours": 22,
+      "theirs": 23,
+      "timeoutDetailsJson": {
+         "takenSecondHalf": 2,
+         "quotaPerHalf": 2,
+         "takenFirstHalf": 1,
+         "quotaFloaters": 0
+      },
+      "lastUpdateUtc": "2017-06-25 00:20",
+      "deleted": false,
+      "positional": false,
+      "previousVersionAvailable": false,
+      "firstPointOline": false
+   },
+   {
+      "teamId": "5700228501995520",
+      "gameId": "game-8E6BA84C-ED28-4D6C-AA1F-F66DDB5C438F",
+      "opponentName": "New York Empire",
+      "tournamentName": "AUDL",
+      "gamePoint": 1000,
+      "pointsJson": [
+         {
+            "summary": {
+               "elapsedTime": 62,
+               "score": {
+                  "ours": 0,
+                  "theirs": 1
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712018,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712026,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712034,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712038,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712042,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520712049,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520712078,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520712018,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520712080
+         },
+         {
+            "summary": {
+               "elapsedTime": 108,
+               "score": {
+                  "ours": 1,
+                  "theirs": 1
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712140,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712150,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712158,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520712161,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712164,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520712169,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520712195,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520712218,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712224,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520712231,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520712235,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520712242,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520712246,
+                  "passer": "Alec A"
+               }
+            ],
+            "startSeconds": 520712140,
+            "line": [
+               "Alec A",
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520712248
+         },
+         {
+            "summary": {
+               "elapsedTime": 13,
+               "score": {
+                  "ours": 1,
+                  "theirs": 2
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 8250
+                  },
+                  "timestamp": 520712313
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520712324,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520712313,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Erik H",
+               "Jordan M",
+               "Laurent",
+               "Owen W",
+               "Paul M"
+            ],
+            "endSeconds": 520712326
+         },
+         {
+            "summary": {
+               "elapsedTime": 120,
+               "score": {
+                  "ours": 2,
+                  "theirs": 2
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712377,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712387,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520712391,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712395,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712399,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520712403,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712407,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712411,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712415,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520712419,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520712423,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520712427,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712431,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712435,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712439,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712443,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712447,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712451,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712455,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520712459,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712463,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712467,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520712471,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712475,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712479,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712483,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712487,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712491,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Léon FN",
+                  "timestamp": 520712495,
+                  "passer": "Kinley G"
+               }
+            ],
+            "startSeconds": 520712377,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520712497
+         },
+         {
+            "summary": {
+               "elapsedTime": 119,
+               "score": {
+                  "ours": 2,
+                  "theirs": 3
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Bevan",
+                  "details": {
+                     "hangtime": 6678
+                  },
+                  "timestamp": 520712544
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520712559,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520712577,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520712581,
+                  "passer": "Pierre L"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520712584,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520712588,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Bevan",
+                  "timestamp": 520712592,
+                  "passer": "Pierre L"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520712596,
+                  "passer": "Bevan"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul M",
+                  "timestamp": 520712600,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520712604,
+                  "passer": "Paul M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520712608,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520712620,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520712661,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520712544,
+            "line": [
+               "Bevan",
+               "Jason D",
+               "Jordan M",
+               "Owen W",
+               "Paul M",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520712663
+         },
+         {
+            "summary": {
+               "elapsedTime": 46,
+               "score": {
+                  "ours": 2,
+                  "theirs": 4
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520712729,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520712737,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712742,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520712746,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520712751,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Drop",
+                  "receiver": "Scott",
+                  "timestamp": 520712767,
+                  "passer": "Anonymous"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520712773,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520712729,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520712775
+         },
+         {
+            "summary": {
+               "elapsedTime": 36,
+               "score": {
+                  "ours": 3,
+                  "theirs": 4
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712832,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520712841,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712846,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712849,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520712853,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520712857,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520712860,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Kinley G",
+                  "timestamp": 520712866,
+                  "passer": "Derek A"
+               }
+            ],
+            "startSeconds": 520712832,
+            "line": [
+               "Alec A",
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Jordan M",
+               "Kinley G",
+               "Scott"
+            ],
+            "endSeconds": 520712868
+         },
+         {
+            "summary": {
+               "elapsedTime": 49,
+               "score": {
+                  "ours": 3,
+                  "theirs": 5
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "PullOb",
+                  "timestamp": 520712920,
+                  "defender": "Erik H"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520712967,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520712920,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Erik H",
+               "Laurent",
+               "Paul M",
+               "Paul R",
+               "Tyler S"
+            ],
+            "endSeconds": 520712969
+         },
+         {
+            "summary": {
+               "elapsedTime": 138,
+               "score": {
+                  "ours": 3,
+                  "theirs": 6
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520713033,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713042,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520713046,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713050,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520713054,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713058,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520713062,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520713066,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713070,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520713074,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520713078,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520713082,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713086,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520713090,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520713094,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520713169,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520713033,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520713171
+         },
+         {
+            "substitutions": [
+               {
+                  "fromPlayer": "Alec A",
+                  "reason": "other",
+                  "toPlayer": "Laurent",
+                  "timestamp": 5.20713376E8
+               },
+               {
+                  "fromPlayer": "Derek A",
+                  "reason": "other",
+                  "toPlayer": "Jason D",
+                  "timestamp": 5.20713376E8
+               },
+               {
+                  "fromPlayer": "Kinley G",
+                  "reason": "other",
+                  "toPlayer": "Owen W",
+                  "timestamp": 5.20713376E8
+               },
+               {
+                  "fromPlayer": "Jordan M",
+                  "reason": "other",
+                  "toPlayer": "Jeremy H",
+                  "timestamp": 5.20713408E8
+               },
+               {
+                  "fromPlayer": "Scott",
+                  "reason": "other",
+                  "toPlayer": "Andy O",
+                  "timestamp": 5.20713408E8
+               }
+            ],
+            "summary": {
+               "elapsedTime": 229,
+               "score": {
+                  "ours": 3,
+                  "theirs": 6
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713224,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520713233,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713237,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520713247,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520713271,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520713283,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520713286,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520713290,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520713312,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520713331,
+                  "passer": "Derek A"
+               },
+               {
+                  "action": "EndOfFirstQuarter",
+                  "type": "Cessation",
+                  "timestamp": 520713451
+               }
+            ],
+            "startSeconds": 520713224,
+            "line": [
+               "Andy O",
+               "Jason D",
+               "Jeremy H",
+               "Laurent",
+               "Nick B",
+               "Owen W",
+               "Paul R"
+            ],
+            "endSeconds": 520713453
+         },
+         {
+            "summary": {
+               "elapsedTime": 30,
+               "score": {
+                  "ours": 4,
+                  "theirs": 6
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "PullOb",
+                  "timestamp": 520713658,
+                  "defender": "Bevan"
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520713672,
+                  "defender": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520713677,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Pierre L",
+                  "timestamp": 520713686,
+                  "passer": "Carson T"
+               }
+            ],
+            "startSeconds": 520713658,
+            "line": [
+               "Bevan",
+               "Carson T",
+               "Jason D",
+               "Owen W",
+               "Paul M",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520713688
+         },
+         {
+            "summary": {
+               "elapsedTime": 78,
+               "score": {
+                  "ours": 4,
+                  "theirs": 7
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 6578
+                  },
+                  "timestamp": 520713746
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520713758,
+                  "defender": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520713771,
+                  "passer": "Cooper B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520713822,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520713746,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Erik H",
+               "Jason D",
+               "Jordan M",
+               "Laurent",
+               "Paul R"
+            ],
+            "endSeconds": 520713824
+         },
+         {
+            "summary": {
+               "elapsedTime": 62,
+               "score": {
+                  "ours": 5,
+                  "theirs": 7
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520713871,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520713882,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520713885,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520713889,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520713910,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520713921,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Derek A",
+                  "timestamp": 520713931,
+                  "passer": "Kinley G"
+               }
+            ],
+            "startSeconds": 520713871,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520713933
+         },
+         {
+            "summary": {
+               "elapsedTime": 36,
+               "score": {
+                  "ours": 5,
+                  "theirs": 8
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Pierre L",
+                  "details": {
+                     "hangtime": 7269
+                  },
+                  "timestamp": 520713995
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520714029,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520713995,
+            "line": [
+               "Bevan",
+               "Jason D",
+               "Laurent",
+               "Owen W",
+               "Paul M",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520714031
+         },
+         {
+            "summary": {
+               "elapsedTime": 77,
+               "score": {
+                  "ours": 5,
+                  "theirs": 9
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714085,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520714093,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714097,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714101,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520714104,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520714110,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714114,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520714118,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520714126,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520714160,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520714085,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520714162
+         },
+         {
+            "summary": {
+               "elapsedTime": 73,
+               "score": {
+                  "ours": 6,
+                  "theirs": 9
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520714247,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520714256,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714261,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520714266,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520714270,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714274,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714278,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520714282,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714286,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714290,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520714294,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714298,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520714302,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714306,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714310,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520714314,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Alec A",
+                  "timestamp": 520714318,
+                  "passer": "Andy O"
+               }
+            ],
+            "startSeconds": 520714247,
+            "line": [
+               "Alec A",
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Jordan M",
+               "Kinley G",
+               "Scott"
+            ],
+            "endSeconds": 520714320
+         },
+         {
+            "summary": {
+               "elapsedTime": 134,
+               "score": {
+                  "ours": 7,
+                  "theirs": 9
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Pierre L",
+                  "details": {
+                     "hangtime": 6646
+                  },
+                  "timestamp": 520714356
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520714425,
+                  "defender": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Cooper B",
+                  "timestamp": 520714441,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520714444,
+                  "passer": "Cooper B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520714447,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520714451,
+                  "passer": "Pierre L"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Erik H",
+                  "timestamp": 520714454,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520714457,
+                  "passer": "Erik H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520714460,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520714463,
+                  "passer": "Pierre L"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520714466,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Erik H",
+                  "timestamp": 520714471,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Cooper B",
+                  "timestamp": 520714476,
+                  "passer": "Erik H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520714479,
+                  "passer": "Cooper B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520714483,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Erik H",
+                  "timestamp": 520714488,
+                  "passer": "Jason D"
+               }
+            ],
+            "startSeconds": 520714356,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Erik H",
+               "Jason D",
+               "Laurent",
+               "Paul R",
+               "Pierre L"
+            ],
+            "endSeconds": 520714490
+         },
+         {
+            "summary": {
+               "elapsedTime": 23,
+               "score": {
+                  "ours": 7,
+                  "theirs": 10
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 3333
+                  },
+                  "timestamp": 520714553
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520714574,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520714553,
+            "line": [
+               "Bevan",
+               "Jason D",
+               "Jordan M",
+               "Nick B",
+               "Owen W",
+               "Paul M",
+               "Tyler S"
+            ],
+            "endSeconds": 520714576
+         },
+         {
+            "summary": {
+               "elapsedTime": 41,
+               "score": {
+                  "ours": 8,
+                  "theirs": 10
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714628,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520714638,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520714643,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520714648,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520714651,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520714657,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520714660,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Scott",
+                  "timestamp": 520714667,
+                  "passer": "Jeremy H"
+               }
+            ],
+            "startSeconds": 520714628,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520714669
+         },
+         {
+            "summary": {
+               "elapsedTime": 18,
+               "score": {
+                  "ours": 8,
+                  "theirs": 11
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 6902
+                  },
+                  "timestamp": 520714734
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520714750,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520714734,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Erik H",
+               "Jordan M",
+               "Laurent",
+               "Paul M",
+               "Pierre L"
+            ],
+            "endSeconds": 520714752
+         },
+         {
+            "summary": {
+               "elapsedTime": 35,
+               "score": {
+                  "ours": 9,
+                  "theirs": 11
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520714803,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520714814,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520714821,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520714825,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Scott",
+                  "timestamp": 520714836,
+                  "passer": "Andy O"
+               }
+            ],
+            "startSeconds": 520714803,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Nick B",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520714838
+         },
+         {
+            "summary": {
+               "elapsedTime": 45,
+               "score": {
+                  "ours": 10,
+                  "theirs": 11
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 6790
+                  },
+                  "timestamp": 520714899
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520714923,
+                  "defender": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520714939,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Paul M",
+                  "timestamp": 520714942,
+                  "passer": "Pierre L"
+               }
+            ],
+            "startSeconds": 520714899,
+            "line": [
+               "Bevan",
+               "Carson T",
+               "Jason D",
+               "Laurent",
+               "Paul M",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520714944
+         },
+         {
+            "summary": {
+               "elapsedTime": 113,
+               "score": {
+                  "ours": 10,
+                  "theirs": 12
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 7648
+                  },
+                  "timestamp": 520715005
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520715032,
+                  "defender": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Erik H",
+                  "timestamp": 520715061,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Owen W",
+                  "timestamp": 520715065,
+                  "passer": "Erik H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Cooper B",
+                  "timestamp": 520715069,
+                  "passer": "Owen W"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Owen W",
+                  "timestamp": 520715073,
+                  "passer": "Cooper B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520715078,
+                  "passer": "Owen W"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520715116,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520715005,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Erik H",
+               "Jordan M",
+               "Nick B",
+               "Owen W",
+               "Paul R"
+            ],
+            "endSeconds": 520715118
+         },
+         {
+            "summary": {
+               "elapsedTime": 38,
+               "score": {
+                  "ours": 10,
+                  "theirs": 12
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520715176,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520715185,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520715189,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520715192,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520715195,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520715209,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Cessation",
+                  "action": "Halftime",
+                  "timestamp": 520715212,
+                  "halftimeCause": true
+               }
+            ],
+            "startSeconds": 520715176,
+            "line": [
+               "Alec A",
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Scott"
+            ],
+            "endSeconds": 520715214
+         },
+         {
+            "summary": {
+               "elapsedTime": 88,
+               "score": {
+                  "ours": 11,
+                  "theirs": 12
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716130,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520716139,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520716143,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716146,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520716151,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716156,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716161,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716166,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520716172,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716175,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520716183,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716188,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716191,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716194,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716198,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716205,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716208,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520716213,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Paul R",
+                  "timestamp": 520716216,
+                  "passer": "Jeremy H"
+               }
+            ],
+            "startSeconds": 520716130,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Nick B",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520716218
+         },
+         {
+            "summary": {
+               "elapsedTime": 66,
+               "score": {
+                  "ours": 11,
+                  "theirs": 13
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 6499
+                  },
+                  "timestamp": 520716278
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520716342,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520716278,
+            "line": [
+               "Alec A",
+               "Carson T",
+               "Cooper B",
+               "Jason D",
+               "Jordan M",
+               "Laurent",
+               "Tyler S"
+            ],
+            "endSeconds": 520716344
+         },
+         {
+            "summary": {
+               "elapsedTime": 100,
+               "score": {
+                  "ours": 11,
+                  "theirs": 14
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716398,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716409,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716412,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716417,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716424,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716428,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716432,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716436,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716440,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716444,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716448,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716452,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520716456,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716460,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716464,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716468,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520716472,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716476,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520716480,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716484,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520716488,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520716496,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520716398,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Scott"
+            ],
+            "endSeconds": 520716498
+         },
+         {
+            "summary": {
+               "elapsedTime": 64,
+               "score": {
+                  "ours": 12,
+                  "theirs": 14
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716630,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520716641,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716645,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716648,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716652,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520716656,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520716660,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716664,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520716668,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716672,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520716676,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716680,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520716684,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716688,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Alec A",
+                  "timestamp": 520716692,
+                  "passer": "Derek A"
+               }
+            ],
+            "startSeconds": 520716630,
+            "line": [
+               "Alec A",
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520716694
+         },
+         {
+            "summary": {
+               "elapsedTime": 102,
+               "score": {
+                  "ours": 12,
+                  "theirs": 15
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 6467
+                  },
+                  "timestamp": 520716753
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520716762,
+                  "defender": "Owen W"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Erik H",
+                  "timestamp": 520716767,
+                  "passer": "Owen W"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Bevan",
+                  "timestamp": 520716770,
+                  "passer": "Erik H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520716774,
+                  "passer": "Bevan"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Owen W",
+                  "timestamp": 520716778,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520716782,
+                  "passer": "Owen W"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Drop",
+                  "receiver": "Paul M",
+                  "timestamp": 520716786,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520716794,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Bevan",
+                  "timestamp": 520716811,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Erik H",
+                  "timestamp": 520716815,
+                  "passer": "Bevan"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520716819,
+                  "passer": "Erik H"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520716853,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520716753,
+            "line": [
+               "Bevan",
+               "Carson T",
+               "Erik H",
+               "Laurent",
+               "Owen W",
+               "Paul M",
+               "Pierre L"
+            ],
+            "endSeconds": 520716855
+         },
+         {
+            "summary": {
+               "elapsedTime": 67,
+               "score": {
+                  "ours": 12,
+                  "theirs": 16
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716908,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716920,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716924,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716927,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520716933,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520716952,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520716956,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520716960,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Drop",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520716964,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520716973,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520716908,
+            "line": [
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Nick B",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520716975
+         },
+         {
+            "summary": {
+               "elapsedTime": 111,
+               "score": {
+                  "ours": 13,
+                  "theirs": 16
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520717043,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520717052,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Alec A",
+                  "timestamp": 520717055,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520717062,
+                  "passer": "Alec A"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520717076,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520717092,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520717108,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Jordan M",
+                  "timestamp": 520717152,
+                  "passer": "Derek A"
+               }
+            ],
+            "startSeconds": 520717043,
+            "line": [
+               "Alec A",
+               "Andy O",
+               "Derek A",
+               "Jordan M",
+               "Kinley G",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520717154
+         },
+         {
+            "summary": {
+               "elapsedTime": 72,
+               "score": {
+                  "ours": 14,
+                  "theirs": 16
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 5231
+                  },
+                  "timestamp": 520717218
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520717226,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Laurent",
+                  "timestamp": 520717243,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520717246,
+                  "passer": "Laurent"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520717252,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520717259,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520717263,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520717266,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520717269,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520717272,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520717276,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520717280,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Cooper B",
+                  "timestamp": 520717284,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Laurent",
+                  "timestamp": 520717288,
+                  "passer": "Cooper B"
+               }
+            ],
+            "startSeconds": 520717218,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jason D",
+               "Jordan M",
+               "Laurent",
+               "Nick B",
+               "Tyler S"
+            ],
+            "endSeconds": 520717290
+         },
+         {
+            "summary": {
+               "elapsedTime": 115,
+               "score": {
+                  "ours": 14,
+                  "theirs": 16
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 5347
+                  },
+                  "timestamp": 520717353
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520717376,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520717385,
+                  "passer": "Erik H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul M",
+                  "timestamp": 520717389,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Bevan",
+                  "timestamp": 520717405,
+                  "passer": "Paul M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520717416,
+                  "passer": "Bevan"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Pierre L",
+                  "timestamp": 520717421,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520717425,
+                  "passer": "Pierre L"
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520717455,
+                  "defender": "Owen W"
+               },
+               {
+                  "action": "EndOfThirdQuarter",
+                  "type": "Cessation",
+                  "timestamp": 520717466
+               }
+            ],
+            "startSeconds": 520717353,
+            "line": [
+               "Bevan",
+               "Carson T",
+               "Erik H",
+               "Owen W",
+               "Paul M",
+               "Paul R",
+               "Pierre L"
+            ],
+            "endSeconds": 520717468
+         },
+         {
+            "summary": {
+               "elapsedTime": 10,
+               "score": {
+                  "ours": 15,
+                  "theirs": 16
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 5528
+                  },
+                  "timestamp": 520717643
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520717647,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Jordan M",
+                  "timestamp": 520717651,
+                  "passer": "Anonymous"
+               }
+            ],
+            "startSeconds": 520717643,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jason D",
+               "Jordan M",
+               "Laurent",
+               "Nick B",
+               "Tyler S"
+            ],
+            "endSeconds": 520717653
+         },
+         {
+            "summary": {
+               "elapsedTime": 25,
+               "score": {
+                  "ours": 16,
+                  "theirs": 16
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 4031
+                  },
+                  "timestamp": 520717681
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520717685,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520717689,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520717693,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520717697,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Cooper B",
+                  "timestamp": 520717704,
+                  "passer": "Nick B"
+               }
+            ],
+            "startSeconds": 520717681,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jason D",
+               "Jordan M",
+               "Laurent",
+               "Nick B",
+               "Tyler S"
+            ],
+            "endSeconds": 520717706
+         },
+         {
+            "summary": {
+               "elapsedTime": 51,
+               "score": {
+                  "ours": 16,
+                  "theirs": 17
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 6802
+                  },
+                  "timestamp": 520717764
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520717813,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520717764,
+            "line": [
+               "Bevan",
+               "Erik H",
+               "Laurent",
+               "Nick B",
+               "Owen W",
+               "Paul R",
+               "Pierre L"
+            ],
+            "endSeconds": 520717815
+         },
+         {
+            "summary": {
+               "elapsedTime": 147,
+               "score": {
+                  "ours": 17,
+                  "theirs": 17
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520717870,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520717878,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520717887,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520717892,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Defense",
+                  "action": "D",
+                  "timestamp": 520717919,
+                  "defender": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520717943,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520717946,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520717950,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520717954,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520717958,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520717962,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520717969,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520717973,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520717977,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520717981,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520717985,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520717989,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520717993,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520717997,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520718001,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718005,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520718008,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520718011,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718015,
+                  "passer": "Jordan M"
+               }
+            ],
+            "startSeconds": 520717870,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Jordan M",
+               "Kinley G",
+               "Léon FN",
+               "Scott"
+            ],
+            "endSeconds": 520718017
+         },
+         {
+            "summary": {
+               "elapsedTime": 110,
+               "score": {
+                  "ours": 17,
+                  "theirs": 18
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 4038
+                  },
+                  "timestamp": 520718072
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520718108,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520718118,
+                  "passer": "Cooper B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520718180,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520718072,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jason D",
+               "Laurent",
+               "Nick B",
+               "Pierre L",
+               "Tyler S"
+            ],
+            "endSeconds": 520718182
+         },
+         {
+            "substitutions": [
+               {
+                  "fromPlayer": "Jeremy H",
+                  "reason": "injury",
+                  "toPlayer": "Nick B",
+                  "timestamp": 5.20718336E8
+               },
+               {
+                  "fromPlayer": "Léon FN",
+                  "reason": "other",
+                  "toPlayer": "Jordan M",
+                  "timestamp": 5.20718432E8
+               },
+               {
+                  "fromPlayer": "Andy O",
+                  "reason": "other",
+                  "toPlayer": "Carson T",
+                  "timestamp": 5.20718432E8
+               },
+               {
+                  "fromPlayer": "Derek A",
+                  "reason": "injury",
+                  "toPlayer": "Paul M",
+                  "timestamp": 5.20718432E8
+               },
+               {
+                  "fromPlayer": "Kinley G",
+                  "reason": "other",
+                  "toPlayer": "Jason D",
+                  "timestamp": 5.20718464E8
+               },
+               {
+                  "fromPlayer": "Jordan M",
+                  "reason": "other",
+                  "toPlayer": "Tyler S",
+                  "timestamp": 5.20718464E8
+               },
+               {
+                  "fromPlayer": "Paul R",
+                  "reason": "injury",
+                  "toPlayer": "Laurent",
+                  "timestamp": 5.20718464E8
+               },
+               {
+                  "fromPlayer": "Scott",
+                  "reason": "other",
+                  "toPlayer": "Jordan M",
+                  "timestamp": 5.20718496E8
+               }
+            ],
+            "summary": {
+               "elapsedTime": 286,
+               "score": {
+                  "ours": 17,
+                  "theirs": 19
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718228,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520718236,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718242,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718246,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Andy O",
+                  "timestamp": 520718250,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520718274,
+                  "passer": "Andy O"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520718278,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520718281,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520718286,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718289,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718298,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718301,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520718305,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520718309,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520718350,
+                  "passer": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520718355,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520718512,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520718228,
+            "line": [
+               "Carson T",
+               "Jason D",
+               "Jordan M",
+               "Laurent",
+               "Nick B",
+               "Paul M",
+               "Tyler S"
+            ],
+            "endSeconds": 520718514
+         },
+         {
+            "summary": {
+               "elapsedTime": 22,
+               "score": {
+                  "ours": 18,
+                  "theirs": 19
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520718592,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520718600,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520718604,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718608,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Scott",
+                  "timestamp": 520718612,
+                  "passer": "Derek A"
+               }
+            ],
+            "startSeconds": 520718592,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520718614
+         },
+         {
+            "summary": {
+               "elapsedTime": 43,
+               "score": {
+                  "ours": 18,
+                  "theirs": 20
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Nick B",
+                  "details": {
+                     "hangtime": 6697
+                  },
+                  "timestamp": 520718671
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520718712,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520718671,
+            "line": [
+               "Bevan",
+               "Cooper B",
+               "Erik H",
+               "Laurent",
+               "Nick B",
+               "Owen W",
+               "Pierre L"
+            ],
+            "endSeconds": 520718714
+         },
+         {
+            "summary": {
+               "elapsedTime": 65,
+               "score": {
+                  "ours": 19,
+                  "theirs": 20
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718784,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520718793,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jeremy H",
+                  "timestamp": 520718796,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520718799,
+                  "passer": "Jeremy H"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520718803,
+                  "passer": "Léon FN"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718806,
+                  "passer": "Scott"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718810,
+                  "passer": "Kinley G"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Paul R",
+                  "timestamp": 520718814,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520718836,
+                  "passer": "Paul R"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Léon FN",
+                  "timestamp": 520718844,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Kinley G",
+                  "timestamp": 520718847,
+                  "passer": "Léon FN"
+               }
+            ],
+            "startSeconds": 520718784,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520718849
+         },
+         {
+            "substitutions": [
+               {
+                  "fromPlayer": "Carson T",
+                  "reason": "other",
+                  "toPlayer": "Andy O",
+                  "timestamp": 5.20719008E8
+               },
+               {
+                  "fromPlayer": "Cooper B",
+                  "reason": "other",
+                  "toPlayer": "Derek A",
+                  "timestamp": 5.20719008E8
+               },
+               {
+                  "fromPlayer": "Jason D",
+                  "reason": "other",
+                  "toPlayer": "Kinley G",
+                  "timestamp": 5.2071904E8
+               },
+               {
+                  "fromPlayer": "Jordan M",
+                  "reason": "other",
+                  "toPlayer": "Jeremy H",
+                  "timestamp": 5.2071904E8
+               },
+               {
+                  "fromPlayer": "Laurent",
+                  "reason": "other",
+                  "toPlayer": "Léon FN",
+                  "timestamp": 5.2071904E8
+               },
+               {
+                  "fromPlayer": "Tyler S",
+                  "reason": "other",
+                  "toPlayer": "Paul R",
+                  "timestamp": 5.20719072E8
+               },
+               {
+                  "fromPlayer": "Nick B",
+                  "reason": "other",
+                  "toPlayer": "Scott",
+                  "timestamp": 5.20719072E8
+               }
+            ],
+            "summary": {
+               "elapsedTime": 194,
+               "score": {
+                  "ours": 20,
+                  "theirs": 20
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "PullOb",
+                  "timestamp": 520718906,
+                  "defender": "Nick B"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520718960,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520718963,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520718967,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Tyler S",
+                  "timestamp": 520718971,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520718975,
+                  "passer": "Tyler S"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520718979,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Cooper B",
+                  "timestamp": 520718984,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Derek A",
+                  "timestamp": 520719080,
+                  "passer": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Scott",
+                  "timestamp": 520719093,
+                  "passer": "Derek A"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Goal",
+                  "receiver": "Andy O",
+                  "timestamp": 520719098,
+                  "passer": "Scott"
+               }
+            ],
+            "startSeconds": 520718906,
+            "line": [
+               "Andy O",
+               "Derek A",
+               "Jeremy H",
+               "Kinley G",
+               "Léon FN",
+               "Paul R",
+               "Scott"
+            ],
+            "endSeconds": 520719100
+         },
+         {
+            "summary": {
+               "elapsedTime": 303,
+               "score": {
+                  "ours": 20,
+                  "theirs": 21
+               },
+               "lineType": "D",
+               "finished": true
+            },
+            "events": [
+               {
+                  "type": "Defense",
+                  "action": "Pull",
+                  "defender": "Carson T",
+                  "details": {
+                     "hangtime": 5401
+                  },
+                  "timestamp": 520719164
+               },
+               {
+                  "type": "Defense",
+                  "action": "Throwaway",
+                  "timestamp": 520719194,
+                  "defender": "Anonymous"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jordan M",
+                  "timestamp": 520719207,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520719211,
+                  "passer": "Jordan M"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Jason D",
+                  "timestamp": 520719215,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Carson T",
+                  "timestamp": 520719219,
+                  "passer": "Jason D"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Nick B",
+                  "timestamp": 520719227,
+                  "passer": "Carson T"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Catch",
+                  "receiver": "Anonymous",
+                  "timestamp": 520719457,
+                  "passer": "Nick B"
+               },
+               {
+                  "type": "Offense",
+                  "action": "Throwaway",
+                  "receiver": "Anonymous",
+                  "timestamp": 520719461,
+                  "passer": "Anonymous"
+               },
+               {
+                  "type": "Defense",
+                  "action": "Goal",
+                  "timestamp": 520719465,
+                  "defender": "Anonymous"
+               }
+            ],
+            "startSeconds": 520719164,
+            "line": [
+               "Carson T",
+               "Cooper B",
+               "Jason D",
+               "Jordan M",
+               "Nick B",
+               "Paul M",
+               "Tyler S"
+            ],
+            "endSeconds": 520719467
+         },
+         {
+            "summary": {
+               "elapsedTime": 7,
+               "score": {
+                  "ours": 20,
+                  "theirs": 21
+               },
+               "lineType": "O",
+               "finished": true
+            },
+            "events": [
+               {
+                  "action": "GameOver",
+                  "type": "Cessation",
+                  "timestamp": 520719579
+               }
+            ],
+            "startSeconds": 520719579,
+            "endSeconds": 520719586
+         }
+      ],
+      "wind": {
+         "mph": 0,
+         "degrees": -1,
+         "leftToRight": true
+      },
+      "timestamp": "2017-07-02 14:13",
+      "date": "Sun, 7/02",
+      "time": "2:13",
+      "msSinceEpoch": 1499004780000,
+      "ours": 20,
+      "theirs": 21,
+      "timeoutDetailsJson": {
+         "takenSecondHalf": 1,
+         "quotaPerHalf": 2,
+         "takenFirstHalf": 0,
+         "quotaFloaters": 0
+      },
+      "lastUpdateUtc": "2017-07-03 19:42",
+      "deleted": false,
+      "positional": false,
+      "previousVersionAvailable": false,
+      "firstPointOline": true
+   }
+]
+

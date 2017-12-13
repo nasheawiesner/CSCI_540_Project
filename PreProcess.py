@@ -1,5 +1,7 @@
 import json
 import re
+import os
+import glob
 
 def vectorize_day(day):
     if day == "Sun":
@@ -19,92 +21,95 @@ def vectorize_day(day):
     return day
 
 def parse():
-    with open("test.json", encoding='utf-8') as input_file:
-        data = json.loads(input_file.read())
-
+    path = "./formatted_data/"
     possessions = []
+    for file in glob.glob(os.path.join(path, '*.json')):
+        with open(file, encoding='utf-8') as input_file:
+            data = json.loads(input_file.read())
 
-    for i in data:  #iterate through games
-        player_point_count = []
-        totalPointsPlayed = 0
-        for j in i['pointsJson']: #iterate through events
-            for player in j["line"]:
-                if player not in player_point_count:
-                    player_point_count.extend([player,int(1)])
-                else:
-                    player_point_count[player_point_count.index(player) + 1] += 1
-            first = True
-            possession = []
-            poss_count = 0
-            numPasses = 0
-            numTouches = 0
-            distinctPlayers = []
-            totalTime = 0
-            ours = 0
-            theirs = 0
-            totalPoints = 0
-            wind = 0
-            time = 0
-            date = 0
-            day = ""
-            lineType = 0
-            pull_start = 0
-            scored = 0
-            for k in j['events']:  #iterate through actions
-                index = j['events'].index(k)
-                if k['type'] == "Offense":
-                    numPasses += 1
-                    if k["action"] == "Goal":
-                        scored = 1
-                    if k['passer'] not in distinctPlayers and k['passer'] != "Anonymous":
-                        distinctPlayers.append(k['passer'])
-                        numTouches += 1
-                    if k['receiver'] not in distinctPlayers and k['receiver'] != "Anonymous":
-                        distinctPlayers.append(k['receiver'])
-                        numTouches += 1
-                    if j['events'][(index + 1) % len(j['events'])]['type'] != "Offense" or index == (len(j['events']) - 1):  #if the ball gets transferred to other team the next action or it's the end of the point
-                        possession = []
-                        poss_count += 1
-                        totalPointsPlayed = 0
-                        for player in j["line"]:
-                            totalPointsPlayed += player_point_count[player_point_count.index(player) + 1]
-                        ours = int(j['summary']['score']['ours'])
-                        theirs = int(j['summary']['score']['theirs'])
-                        totalPoints = ours + theirs
-                        wind = int(i['wind']['mph'])
-                        time = i['time']
-                        time = int(time.replace(":", ""))
-                        date = i["date"]
-                        day = date.split(",")
-                        day = vectorize_day(day[0])
-                        date = re.findall('\d+', date)
-                        date = int(date[0] + date[1])
-                        if i["pointsJson"][-1]['summary']['lineType'] == "O":
-                            lineType = 1
-                            if first == True:
-                                pull_start = 1
-                        else:
+            for i in data:  #iterate through games
+                player_point_count = []
+                totalPointsPlayed = 0
+                if 'pointsJson' in i:
+                    for j in i['pointsJson']: #iterate through events
+                        if j["events"][0]["type"] != "Cessation" and 'line' in j:
+                            for player in j['line']:
+                                if player not in player_point_count:
+                                    player_point_count.extend([player,int(1)])
+                                else:
+                                    player_point_count[player_point_count.index(player) + 1] += 1
+                            first = True
+                            possession = []
+                            poss_count = 0
+                            numPasses = 0
+                            numTouches = 0
+                            distinctPlayers = []
+                            totalTime = 0
+                            ours = 0
+                            theirs = 0
+                            totalPoints = 0
+                            wind = 0
+                            time = 0
+                            date = 0
+                            day = ""
                             lineType = 0
                             pull_start = 0
-                        possession.extend([numPasses,numTouches,totalPointsPlayed, ours,theirs,totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored])
-                        #print(possession)
-                        possessions.append(possession)
-                elif k['type'] == "Defense":
-                    possession = []
-                    numPasses = 0
-                    numTouches = 0
-                    distinctPlayers = []
-                    totalTime = 0
-                    ours = 0
-                    theirs = 0
-                    totalPoints = 0
-                    wind = 0
-                    time = 0
-                    date = 0
-                    day = ""
-                    lineType = 0
-                    pull_start = 0
-                first = False
+                            scored = 0
+                            for k in j['events']:  #iterate through actions
+                                index = j['events'].index(k)
+                                if k['type'] == "Offense":
+                                    numPasses += 1
+                                    if k["action"] == "Goal":
+                                        scored = 1
+                                    if k['passer'] not in distinctPlayers and k['passer'] != "Anonymous":
+                                        distinctPlayers.append(k['passer'])
+                                        numTouches += 1
+                                    if k['receiver'] not in distinctPlayers and k['receiver'] != "Anonymous":
+                                        distinctPlayers.append(k['receiver'])
+                                        numTouches += 1
+                                    if i["pointsJson"][-1]['summary']['lineType'] == "O":
+                                        lineType = 1
+                                        if first == True:
+                                            pull_start = 1
+                                    else:
+                                        lineType = 0
+                                        pull_start = 0
+                                    if j['events'][(index + 1) % len(j['events'])]['type'] != "Offense" or index == (len(j['events']) - 1):  #if the ball gets transferred to other team the next action or it's the end of the point
+                                        possession = []
+                                        poss_count += 1
+                                        totalPointsPlayed = 0
+                                        for player in j["line"]:
+                                            totalPointsPlayed += player_point_count[player_point_count.index(player) + 1]
+                                        ours = int(j['summary']['score']['ours'])
+                                        theirs = int(j['summary']['score']['theirs'])
+                                        totalPoints = ours + theirs
+                                        wind = int(i['wind']['mph'])
+                                        time = i['time']
+                                        time = int(time.replace(":", ""))
+                                        date = i["date"]
+                                        day = date.split(",")
+                                        day = vectorize_day(day[0])
+                                        date = re.findall('\d+', date)
+                                        date = int(date[0] + date[1])
+                                        possession.extend([numPasses,numTouches,totalPointsPlayed])#, lineType, pull_start, poss_count, scored])
+                                        #print(possession)
+                                        possessions.append(possession)
+                                elif k['type'] == "Defense":
+                                    possession = []
+                                    numPasses = 0
+                                    numTouches = 0
+                                    distinctPlayers = []
+                                    totalTime = 0
+                                    ours = 0
+                                    theirs = 0
+                                    totalPoints = 0
+                                    wind = 0
+                                    time = 0
+                                    date = 0
+                                    day = ""
+                                    lineType = 0
+                                    pull_start = 0
+                                first = False
     return possessions
 
 

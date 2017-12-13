@@ -4162,10 +4162,10 @@
          "takenSecondHalf": 2
       },
       "lastUpdateUtc": "2017-06-10 04:04",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -7826,10 +7826,10 @@
          "takenSecondHalf": 0
       },
       "lastUpdateUtc": "2017-04-30 22:22",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5712818124881920",
@@ -11852,10 +11852,10 @@
          "takenSecondHalf": 1
       },
       "lastUpdateUtc": "2017-07-09 04:08",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5712818124881920",
@@ -15721,10 +15721,10 @@
          "takenSecondHalf": 0
       },
       "lastUpdateUtc": "2017-05-28 04:42",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -20398,10 +20398,10 @@
          "takenSecondHalf": 2
       },
       "lastUpdateUtc": "2017-05-14 03:39",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5712818124881920",
@@ -24446,10 +24446,10 @@
          "takenSecondHalf": 0
       },
       "lastUpdateUtc": "2017-05-07 20:52",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -28368,10 +28368,10 @@
          "takenSecondHalf": 2
       },
       "lastUpdateUtc": "2017-04-23 23:32",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5712818124881920",
@@ -32191,10 +32191,10 @@
          "takenSecondHalf": 2
       },
       "lastUpdateUtc": "2017-07-17 07:58",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -36228,10 +36228,10 @@
          "takenSecondHalf": 1
       },
       "lastUpdateUtc": "2017-06-12 18:10",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5712818124881920",
@@ -40643,10 +40643,10 @@
          "takenSecondHalf": 2
       },
       "lastUpdateUtc": "2017-06-18 03:49",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -44711,10 +44711,10 @@
          "takenSecondHalf": 2
       },
       "lastUpdateUtc": "2017-06-12 18:03",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": true,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": true
    },
    {
       "teamId": "5712818124881920",
@@ -48513,10 +48513,10 @@
          "takenSecondHalf": 1
       },
       "lastUpdateUtc": "2017-07-22 04:12",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": true,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -51937,10 +51937,10 @@
          "takenSecondHalf": 0
       },
       "lastUpdateUtc": "2017-04-24 03:13",
+      "deleted": false,
       "positional": false,
-      "firstPointOline": false,
       "previousVersionAvailable": false,
-      "deleted": false
+      "firstPointOline": false
    },
    {
       "teamId": "5712818124881920",
@@ -52586,4 +52586,3295 @@
                   "action": "Pull"
                },
                {
-                  "times
+                  "timestamp": 512792635,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Throwaway"
+               },
+               {
+                  "receiver": "Page",
+                  "passer": "Griffin",
+                  "timestamp": 512792644,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Slader",
+                  "passer": "Page",
+                  "timestamp": 512792649,
+                  "type": "Offense",
+                  "action": "Drop"
+               },
+               {
+                  "timestamp": 512792687,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 87,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 5,
+                  "ours": 4
+               }
+            }
+         },
+         {
+            "startSeconds": 512792739,
+            "line": [
+               "Cohen",
+               "Corbett",
+               "Hume",
+               "Leggio",
+               "Parisi",
+               "Slaughte",
+               "Smith"
+            ],
+            "endSeconds": 512792789,
+            "events": [
+               {
+                  "receiver": "Leggio",
+                  "passer": "Smith",
+                  "timestamp": 512792739,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Leggio",
+                  "timestamp": 512792747,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Cohen",
+                  "timestamp": 512792751,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Leggio",
+                  "timestamp": 512792755,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Parisi",
+                  "timestamp": 512792759,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Leggio",
+                  "timestamp": 512792763,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Corbett",
+                  "timestamp": 512792767,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Leggio",
+                  "timestamp": 512792771,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Cohen",
+                  "timestamp": 512792775,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Hume",
+                  "timestamp": 512792783,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Corbett",
+                  "timestamp": 512792787,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 50,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 5,
+                  "ours": 5
+               }
+            }
+         },
+         {
+            "startSeconds": 512792839,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Hume",
+               "Ivers",
+               "Milardov",
+               "Silverma",
+               "Tran"
+            ],
+            "endSeconds": 512792900,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 7965
+                  },
+                  "timestamp": 512792839,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512792859,
+                  "defender": "Bellinge",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Bellinge",
+                  "timestamp": 512792868,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Tran",
+                  "passer": "Ivers",
+                  "timestamp": 512792872,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Tran",
+                  "timestamp": 512792876,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Tran",
+                  "passer": "Bellinge",
+                  "timestamp": 512792881,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Tran",
+                  "timestamp": 512792885,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Tran",
+                  "passer": "Bellinge",
+                  "timestamp": 512792888,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Tran",
+                  "timestamp": 512792892,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Silverma",
+                  "passer": "Ivers",
+                  "timestamp": 512792898,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 61,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 5,
+                  "ours": 6
+               }
+            }
+         },
+         {
+            "startSeconds": 512792961,
+            "line": [
+               "Corbett",
+               "Hume",
+               "Leggio",
+               "Milardov",
+               "Page",
+               "Purdy",
+               "Slader"
+            ],
+            "endSeconds": 512792986,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 6425
+                  },
+                  "timestamp": 512792961,
+                  "type": "Defense",
+                  "defender": "Milardov",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512792980,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Throwaway"
+               },
+               {
+                  "type": "Cessation",
+                  "action": "EndOfFirstQuarter",
+                  "timestamp": 512792984
+               }
+            ],
+            "summary": {
+               "elapsedTime": 25,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 5,
+                  "ours": 6
+               }
+            }
+         },
+         {
+            "startSeconds": 512793169,
+            "line": [
+               "Corbett",
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Leggio",
+               "Parisi",
+               "Smith"
+            ],
+            "endSeconds": 512793263,
+            "events": [
+               {
+                  "receiver": "Hume",
+                  "passer": "Smith",
+                  "timestamp": 512793169,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Hume",
+                  "timestamp": 512793177,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Parisi",
+                  "timestamp": 512793181,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Griffin",
+                  "timestamp": 512793197,
+                  "type": "Offense",
+                  "action": "Drop"
+               },
+               {
+                  "timestamp": 512793219,
+                  "defender": "Leggio",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512793224,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Smith",
+                  "timestamp": 512793231,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Parisi",
+                  "timestamp": 512793235,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Anonymous",
+                  "timestamp": 512793247,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512793261,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 94,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 6,
+                  "ours": 6
+               }
+            }
+         },
+         {
+            "startSeconds": 512793318,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Ivers",
+               "Leggio",
+               "Purdy",
+               "Slaughte",
+               "Wu"
+            ],
+            "endSeconds": 512793479,
+            "events": [
+               {
+                  "receiver": "Slaughte",
+                  "passer": "Ivers",
+                  "timestamp": 512793318,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Slaughte",
+                  "timestamp": 512793327,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Slaughte",
+                  "passer": "Leggio",
+                  "timestamp": 512793331,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Slaughte",
+                  "timestamp": 512793335,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Ivers",
+                  "timestamp": 512793339,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Cohen",
+                  "timestamp": 512793343,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Leggio",
+                  "timestamp": 512793347,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Slaughte",
+                  "passer": "Ivers",
+                  "timestamp": 512793351,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Slaughte",
+                  "timestamp": 512793355,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Ivers",
+                  "timestamp": 512793359,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Slaughte",
+                  "passer": "Leggio",
+                  "timestamp": 512793363,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Slaughte",
+                  "timestamp": 512793375,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Purdy",
+                  "passer": "Leggio",
+                  "timestamp": 512793379,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Purdy",
+                  "timestamp": 512793382,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Bacon",
+                  "timestamp": 512793389,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512793437,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Throwaway"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Leggio",
+                  "timestamp": 512793450,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Cohen",
+                  "timestamp": 512793456,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Leggio",
+                  "timestamp": 512793460,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Purdy",
+                  "passer": "Ivers",
+                  "timestamp": 512793474,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Purdy",
+                  "timestamp": 512793477,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 161,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 6,
+                  "ours": 7
+               }
+            }
+         },
+         {
+            "startSeconds": 512793534,
+            "line": [
+               "Bellinge",
+               "Griffin",
+               "Milardov",
+               "Page",
+               "Silverma",
+               "Slader",
+               "Tran"
+            ],
+            "endSeconds": 512793574,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 7155
+                  },
+                  "timestamp": 512793534,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512793572,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 40,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 7,
+                  "ours": 7
+               }
+            }
+         },
+         {
+            "startSeconds": 512793672,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Corbett",
+               "Hume",
+               "Leggio",
+               "Purdy",
+               "Smith"
+            ],
+            "endSeconds": 512793771,
+            "events": [
+               {
+                  "receiver": "Hume",
+                  "passer": "Leggio",
+                  "timestamp": 512793672,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Hume",
+                  "timestamp": 512793681,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Cohen",
+                  "timestamp": 512793686,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512793690,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Smith",
+                  "timestamp": 512793700,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512793769,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 99,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 8,
+                  "ours": 7
+               }
+            }
+         },
+         {
+            "startSeconds": 512793835,
+            "line": [
+               "Bellinge",
+               "Griffin",
+               "Ham",
+               "Ivers",
+               "Milardov",
+               "Parisi",
+               "Wu"
+            ],
+            "endSeconds": 512793859,
+            "events": [
+               {
+                  "receiver": "Ivers",
+                  "passer": "Griffin",
+                  "timestamp": 512793835,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Ivers",
+                  "timestamp": 512793844,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Wu",
+                  "timestamp": 512793847,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Parisi",
+                  "timestamp": 512793850,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Ham",
+                  "timestamp": 512793854,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Griffin",
+                  "timestamp": 512793857,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 24,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 8,
+                  "ours": 8
+               }
+            }
+         },
+         {
+            "startSeconds": 512793922,
+            "line": [
+               "Bellinge",
+               "Corbett",
+               "Ham",
+               "Hume",
+               "Milardov",
+               "Page",
+               "Silverma"
+            ],
+            "endSeconds": 512793984,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 3673
+                  },
+                  "timestamp": 512793922,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512793926,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Throwaway"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Corbett",
+                  "timestamp": 512793934,
+                  "type": "Offense",
+                  "action": "Drop"
+               },
+               {
+                  "timestamp": 512793982,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 62,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 9,
+                  "ours": 8
+               }
+            }
+         },
+         {
+            "startSeconds": 512794040,
+            "line": [
+               "Bacon",
+               "Griffin",
+               "Ivers",
+               "Leggio",
+               "Parisi",
+               "Smith",
+               "Wu"
+            ],
+            "endSeconds": 512794091,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512794040,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Smith",
+                  "timestamp": 512794055,
+                  "type": "Offense",
+                  "action": "Drop"
+               },
+               {
+                  "timestamp": 512794089,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 51,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 10,
+                  "ours": 8
+               }
+            }
+         },
+         {
+            "startSeconds": 512794144,
+            "line": [
+               "Bellinge",
+               "Cohen",
+               "Corbett",
+               "Ham",
+               "Hume",
+               "Milardov",
+               "Slaughte"
+            ],
+            "endSeconds": 512794208,
+            "events": [
+               {
+                  "receiver": "Milardov",
+                  "passer": "Cohen",
+                  "timestamp": 512794144,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Milardov",
+                  "timestamp": 512794162,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Bellinge",
+                  "timestamp": 512794165,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Ham",
+                  "timestamp": 512794169,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Bellinge",
+                  "timestamp": 512794173,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Cohen",
+                  "timestamp": 512794177,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Hume",
+                  "timestamp": 512794183,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512794206,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 64,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 11,
+                  "ours": 8
+               }
+            }
+         },
+         {
+            "startSeconds": 512794357,
+            "line": [
+               "Corbett",
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Leggio",
+               "Parisi",
+               "Smith"
+            ],
+            "endSeconds": 512794416,
+            "events": [
+               {
+                  "receiver": "Griffin",
+                  "passer": "Smith",
+                  "timestamp": 512794357,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Griffin",
+                  "timestamp": 512794365,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Corbett",
+                  "timestamp": 512794372,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Smith",
+                  "timestamp": 512794375,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Hume",
+                  "timestamp": 512794386,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512794414,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 59,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 12,
+                  "ours": 8
+               }
+            }
+         },
+         {
+            "startSeconds": 512794474,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Corbett",
+               "Ivers",
+               "Milardov",
+               "Purdy",
+               "Wu"
+            ],
+            "endSeconds": 512794495,
+            "events": [
+               {
+                  "receiver": "Bacon",
+                  "passer": "Ivers",
+                  "timestamp": 512794474,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Bacon",
+                  "timestamp": 512794483,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Milardov",
+                  "timestamp": 512794487,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Purdy",
+                  "passer": "Bacon",
+                  "timestamp": 512794493,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 21,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 12,
+                  "ours": 9
+               }
+            }
+         },
+         {
+            "startSeconds": 512794564,
+            "line": [
+               "Bacon",
+               "Griffin",
+               "Ham",
+               "Ivers",
+               "Leggio",
+               "Milardov",
+               "Parisi"
+            ],
+            "endSeconds": 512794774,
+            "substitutions": [
+               {
+                  "fromPlayer": "Page",
+                  "timestamp": 5.12794688E8,
+                  "reason": "other",
+                  "toPlayer": "Ivers"
+               },
+               {
+                  "fromPlayer": "Hume",
+                  "timestamp": 5.12794688E8,
+                  "reason": "injury",
+                  "toPlayer": "Griffin"
+               },
+               {
+                  "fromPlayer": "Corbett",
+                  "timestamp": 5.12794688E8,
+                  "reason": "other",
+                  "toPlayer": "Slader"
+               },
+               {
+                  "fromPlayer": "Slader",
+                  "timestamp": 5.12794752E8,
+                  "reason": "other",
+                  "toPlayer": "Ham"
+               }
+            ],
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 6424
+                  },
+                  "timestamp": 512794564,
+                  "type": "Defense",
+                  "defender": "Milardov",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512794606,
+                  "defender": "Bacon",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Leggio",
+                  "timestamp": 512794618,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Milardov",
+                  "timestamp": 512794621,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Leggio",
+                  "timestamp": 512794745,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512794761,
+                  "defender": "Leggio",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "halftimeCause": true,
+                  "timestamp": 512794772,
+                  "type": "Cessation",
+                  "action": "Halftime"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 210,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 12,
+                  "ours": 9
+               }
+            }
+         },
+         {
+            "startSeconds": 512795717,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Corbett",
+               "Ham",
+               "Leggio",
+               "Milardov",
+               "Silverma"
+            ],
+            "endSeconds": 512795754,
+            "events": [
+               {
+                  "timestamp": 512795717,
+                  "defender": "Bellinge",
+                  "type": "Defense",
+                  "action": "PullOb"
+               },
+               {
+                  "timestamp": 512795752,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 37,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 13,
+                  "ours": 9
+               }
+            }
+         },
+         {
+            "startSeconds": 512795807,
+            "line": [
+               "Griffin",
+               "Ham",
+               "Ivers",
+               "Leggio",
+               "Parisi",
+               "Purdy",
+               "Wu"
+            ],
+            "endSeconds": 512795859,
+            "events": [
+               {
+                  "receiver": "Ivers",
+                  "passer": "Leggio",
+                  "timestamp": 512795807,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Ivers",
+                  "timestamp": 512795815,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Parisi",
+                  "timestamp": 512795818,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Wu",
+                  "timestamp": 512795822,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Ham",
+                  "timestamp": 512795827,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Wu",
+                  "timestamp": 512795830,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Griffin",
+                  "timestamp": 512795836,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512795857,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 52,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 14,
+                  "ours": 9
+               }
+            }
+         },
+         {
+            "startSeconds": 512795942,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Corbett",
+               "Hume",
+               "Milardov",
+               "Slaughte",
+               "Smith"
+            ],
+            "endSeconds": 512795958,
+            "events": [
+               {
+                  "receiver": "Corbett",
+                  "passer": "Smith",
+                  "timestamp": 512795942,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Corbett",
+                  "timestamp": 512795951,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Milardov",
+                  "timestamp": 512795956,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 16,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 14,
+                  "ours": 10
+               }
+            }
+         },
+         {
+            "startSeconds": 512796020,
+            "line": [
+               "Bellinge",
+               "Griffin",
+               "Milardov",
+               "Page",
+               "Purdy",
+               "Silverma",
+               "Slader"
+            ],
+            "endSeconds": 512796132,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 6594
+                  },
+                  "timestamp": 512796020,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512796130,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 112,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 15,
+                  "ours": 10
+               }
+            }
+         },
+         {
+            "startSeconds": 512796188,
+            "line": [
+               "Bacon",
+               "Corbett",
+               "Ham",
+               "Hume",
+               "Ivers",
+               "Parisi",
+               "Wu"
+            ],
+            "endSeconds": 512796239,
+            "events": [
+               {
+                  "receiver": "Bacon",
+                  "passer": "Ivers",
+                  "timestamp": 512796188,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Bacon",
+                  "timestamp": 512796196,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Corbett",
+                  "timestamp": 512796199,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Bacon",
+                  "timestamp": 512796203,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Ham",
+                  "timestamp": 512796207,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Parisi",
+                  "timestamp": 512796212,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Hume",
+                  "timestamp": 512796216,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Wu",
+                  "timestamp": 512796222,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Parisi",
+                  "timestamp": 512796226,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Corbett",
+                  "timestamp": 512796230,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Hume",
+                  "timestamp": 512796233,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Bacon",
+                  "timestamp": 512796237,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 51,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 15,
+                  "ours": 11
+               }
+            }
+         },
+         {
+            "startSeconds": 512796297,
+            "line": [
+               "Bellinge",
+               "Griffin",
+               "Leggio",
+               "Milardov",
+               "Purdy",
+               "Silverma",
+               "Slaughte"
+            ],
+            "endSeconds": 512796324,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 4544
+                  },
+                  "timestamp": 512796297,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512796322,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 27,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 16,
+                  "ours": 11
+               }
+            }
+         },
+         {
+            "startSeconds": 512796381,
+            "line": [
+               "Cohen",
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Ivers",
+               "Smith",
+               "Wu"
+            ],
+            "endSeconds": 512796441,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Griffin",
+                  "timestamp": 512796381,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Smith",
+                  "timestamp": 512796396,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Ham",
+                  "timestamp": 512796428,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Hume",
+                  "timestamp": 512796431,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Smith",
+                  "timestamp": 512796439,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 60,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 16,
+                  "ours": 12
+               }
+            }
+         },
+         {
+            "startSeconds": 512796504,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Hume",
+               "Milardov",
+               "Silverma",
+               "Slader",
+               "Tran"
+            ],
+            "endSeconds": 512796589,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 7128
+                  },
+                  "timestamp": 512796504,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512796540,
+                  "defender": "Milardov",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "receiver": "Slader",
+                  "passer": "Milardov",
+                  "timestamp": 512796546,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Slader",
+                  "timestamp": 512796550,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Bellinge",
+                  "timestamp": 512796563,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Slader",
+                  "passer": "Milardov",
+                  "timestamp": 512796566,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Slader",
+                  "timestamp": 512796570,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Bacon",
+                  "timestamp": 512796575,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Milardov",
+                  "timestamp": 512796579,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Bellinge",
+                  "timestamp": 512796587,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 85,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 16,
+                  "ours": 13
+               }
+            }
+         },
+         {
+            "startSeconds": 512796650,
+            "line": [
+               "Corbett",
+               "Ivers",
+               "Leggio",
+               "Purdy",
+               "Silverma",
+               "Slader",
+               "Tran"
+            ],
+            "endSeconds": 512796664,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 3426
+                  },
+                  "timestamp": 512796650,
+                  "type": "Defense",
+                  "defender": "Slader",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512796662,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 14,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 17,
+                  "ours": 13
+               }
+            }
+         },
+         {
+            "startSeconds": 512796719,
+            "line": [
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Leggio",
+               "Parisi",
+               "Slaughte",
+               "Smith"
+            ],
+            "endSeconds": 512796821,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512796719,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Smith",
+                  "timestamp": 512796747,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Griffin",
+                  "timestamp": 512796754,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512796819,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 102,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 18,
+                  "ours": 13
+               }
+            }
+         },
+         {
+            "startSeconds": 512796903,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Cohen",
+               "Corbett",
+               "Ivers",
+               "Milardov",
+               "Purdy"
+            ],
+            "endSeconds": 512797062,
+            "events": [
+               {
+                  "receiver": "Ivers",
+                  "passer": "Bellinge",
+                  "timestamp": 512796903,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Ivers",
+                  "timestamp": 512796912,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Bacon",
+                  "timestamp": 512796918,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Purdy",
+                  "passer": "Cohen",
+                  "timestamp": 512796948,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Purdy",
+                  "timestamp": 512797057,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Milardov",
+                  "timestamp": 512797060,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 159,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 18,
+                  "ours": 14
+               }
+            }
+         },
+         {
+            "startSeconds": 512797117,
+            "line": [
+               "Hume",
+               "Leggio",
+               "Milardov",
+               "Parisi",
+               "Silverma",
+               "Slader",
+               "Wu"
+            ],
+            "endSeconds": 512797182,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 2485
+                  },
+                  "timestamp": 512797117,
+                  "type": "Defense",
+                  "defender": "Slader",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512797162,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Throwaway"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Leggio",
+                  "timestamp": 512797180,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 65,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 18,
+                  "ours": 15
+               }
+            }
+         },
+         {
+            "startSeconds": 512797242,
+            "line": [
+               "Corbett",
+               "Ivers",
+               "Leggio",
+               "Milardov",
+               "Silverma",
+               "Slader",
+               "Tran"
+            ],
+            "endSeconds": 512797289,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 6928
+                  },
+                  "timestamp": 512797242,
+                  "type": "Defense",
+                  "defender": "Slader",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512797287,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 47,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 19,
+                  "ours": 15
+               }
+            }
+         },
+         {
+            "startSeconds": 512797345,
+            "line": [
+               "Cohen",
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Slaughte",
+               "Smith",
+               "Wu"
+            ],
+            "endSeconds": 512797366,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Slaughte",
+                  "timestamp": 512797345,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Smith",
+                  "timestamp": 512797357,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Wu",
+                  "timestamp": 512797360,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Cohen",
+                  "timestamp": 512797364,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 21,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 19,
+                  "ours": 16
+               }
+            }
+         },
+         {
+            "startSeconds": 512797431,
+            "line": [
+               "Bellinge",
+               "Corbett",
+               "Ivers",
+               "Leggio",
+               "Milardov",
+               "Page",
+               "Purdy"
+            ],
+            "endSeconds": 512797484,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 7352
+                  },
+                  "timestamp": 512797431,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512797482,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 53,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 20,
+                  "ours": 16
+               }
+            }
+         },
+         {
+            "startSeconds": 512797538,
+            "line": [
+               "Bacon",
+               "Griffin",
+               "Ham",
+               "Parisi",
+               "Slaughte",
+               "Smith",
+               "Wu"
+            ],
+            "endSeconds": 512797597,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Slaughte",
+                  "timestamp": 512797538,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Smith",
+                  "timestamp": 512797552,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512797595,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 59,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 21,
+                  "ours": 16
+               }
+            }
+         },
+         {
+            "startSeconds": 512797654,
+            "line": [
+               "Bellinge",
+               "Corbett",
+               "Griffin",
+               "Ham",
+               "Leggio",
+               "Milardov",
+               "Purdy"
+            ],
+            "endSeconds": 512797695,
+            "events": [
+               {
+                  "receiver": "Leggio",
+                  "passer": "Bellinge",
+                  "timestamp": 512797654,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Leggio",
+                  "timestamp": 512797663,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Milardov",
+                  "timestamp": 512797666,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512797689,
+                  "defender": "Purdy",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "type": "Cessation",
+                  "action": "EndOfThirdQuarter",
+                  "timestamp": 512797693
+               }
+            ],
+            "summary": {
+               "elapsedTime": 41,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 21,
+                  "ours": 16
+               }
+            }
+         },
+         {
+            "startSeconds": 512797877,
+            "line": [
+               "Corbett",
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Leggio",
+               "Parisi",
+               "Smith"
+            ],
+            "endSeconds": 512797927,
+            "events": [
+               {
+                  "receiver": "Ham",
+                  "passer": "Leggio",
+                  "timestamp": 512797877,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Ham",
+                  "timestamp": 512797886,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Leggio",
+                  "timestamp": 512797907,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Griffin",
+                  "timestamp": 512797913,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Hume",
+                  "timestamp": 512797919,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Leggio",
+                  "timestamp": 512797925,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 50,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 21,
+                  "ours": 17
+               }
+            }
+         },
+         {
+            "startSeconds": 512797987,
+            "line": [
+               "Bellinge",
+               "Corbett",
+               "Ivers",
+               "Milardov",
+               "Purdy",
+               "Silverma",
+               "Wu"
+            ],
+            "endSeconds": 512798060,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 4978
+                  },
+                  "timestamp": 512797987,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512798022,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Throwaway"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Bellinge",
+                  "timestamp": 512798047,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Purdy",
+                  "passer": "Ivers",
+                  "timestamp": 512798053,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Purdy",
+                  "timestamp": 512798058,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 73,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 21,
+                  "ours": 18
+               }
+            }
+         },
+         {
+            "startSeconds": 512798122,
+            "line": [
+               "Griffin",
+               "Ham",
+               "Hume",
+               "Leggio",
+               "Milardov",
+               "Page",
+               "Silverma"
+            ],
+            "endSeconds": 512798133,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 4257
+                  },
+                  "timestamp": 512798122,
+                  "type": "Defense",
+                  "defender": "Milardov",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512798131,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 11,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 22,
+                  "ours": 18
+               }
+            }
+         },
+         {
+            "startSeconds": 512798189,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Corbett",
+               "Leggio",
+               "Parisi",
+               "Purdy",
+               "Smith"
+            ],
+            "endSeconds": 512798244,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512798189,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Smith",
+                  "timestamp": 512798200,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Leggio",
+                  "timestamp": 512798209,
+                  "type": "Offense",
+                  "action": "Drop"
+               },
+               {
+                  "timestamp": 512798242,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 55,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 23,
+                  "ours": 18
+               }
+            }
+         },
+         {
+            "startSeconds": 512798285,
+            "line": [
+               "Bellinge",
+               "Ham",
+               "Hume",
+               "Ivers",
+               "Milardov",
+               "Slaughte",
+               "Wu"
+            ],
+            "endSeconds": 512798300,
+            "events": [
+               {
+                  "receiver": "Bellinge",
+                  "passer": "Ivers",
+                  "timestamp": 512798285,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Bellinge",
+                  "timestamp": 512798298,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 15,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 23,
+                  "ours": 19
+               }
+            }
+         },
+         {
+            "startSeconds": 512798352,
+            "line": [
+               "Bellinge",
+               "Griffin",
+               "Hume",
+               "Leggio",
+               "Milardov",
+               "Silverma",
+               "Slaughte"
+            ],
+            "endSeconds": 512798402,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 1948
+                  },
+                  "timestamp": 512798352,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512798400,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 50,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 24,
+                  "ours": 19
+               }
+            }
+         },
+         {
+            "startSeconds": 512798457,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Corbett",
+               "Ham",
+               "Ivers",
+               "Parisi",
+               "Purdy"
+            ],
+            "endSeconds": 512798514,
+            "events": [
+               {
+                  "receiver": "Bacon",
+                  "passer": "Ivers",
+                  "timestamp": 512798457,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Bacon",
+                  "timestamp": 512798466,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Parisi",
+                  "timestamp": 512798470,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Cohen",
+                  "timestamp": 512798474,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Ham",
+                  "timestamp": 512798478,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Corbett",
+                  "timestamp": 512798482,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Ivers",
+                  "timestamp": 512798485,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Ham",
+                  "timestamp": 512798493,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Parisi",
+                  "timestamp": 512798512,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 57,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 24,
+                  "ours": 20
+               }
+            }
+         },
+         {
+            "startSeconds": 512798570,
+            "line": [
+               "Bellinge",
+               "Hume",
+               "Leggio",
+               "Milardov",
+               "Page",
+               "Silverma",
+               "Wu"
+            ],
+            "endSeconds": 512798590,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 5283
+                  },
+                  "timestamp": 512798570,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512798588,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 20,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 25,
+                  "ours": 20
+               }
+            }
+         },
+         {
+            "startSeconds": 512798643,
+            "line": [
+               "Cohen",
+               "Corbett",
+               "Griffin",
+               "Ham",
+               "Ivers",
+               "Slaughte",
+               "Smith"
+            ],
+            "endSeconds": 512798805,
+            "events": [
+               {
+                  "receiver": "Griffin",
+                  "passer": "Slaughte",
+                  "timestamp": 512798643,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Griffin",
+                  "timestamp": 512798652,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Smith",
+                  "timestamp": 512798655,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Ham",
+                  "timestamp": 512798662,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Smith",
+                  "timestamp": 512798783,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Corbett",
+                  "timestamp": 512798787,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Smith",
+                  "timestamp": 512798791,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Ham",
+                  "timestamp": 512798794,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Smith",
+                  "timestamp": 512798803,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 162,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 25,
+                  "ours": 21
+               }
+            }
+         },
+         {
+            "startSeconds": 512798858,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Leggio",
+               "Milardov",
+               "Parisi",
+               "Purdy",
+               "Wu"
+            ],
+            "endSeconds": 512798913,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 7371
+                  },
+                  "timestamp": 512798858,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512798911,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 55,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 26,
+                  "ours": 21
+               }
+            }
+         },
+         {
+            "startSeconds": 512798967,
+            "line": [
+               "Cohen",
+               "Corbett",
+               "Ham",
+               "Hume",
+               "Ivers",
+               "Leggio",
+               "Smith"
+            ],
+            "endSeconds": 512799010,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Ivers",
+                  "timestamp": 512798967,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Smith",
+                  "timestamp": 512798976,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Corbett",
+                  "timestamp": 512798979,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Ham",
+                  "timestamp": 512798983,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Hume",
+                  "timestamp": 512798987,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Cohen",
+                  "timestamp": 512798992,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512798995,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Smith",
+                  "timestamp": 512798998,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ivers",
+                  "passer": "Leggio",
+                  "timestamp": 512799003,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Ivers",
+                  "timestamp": 512799008,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 43,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 26,
+                  "ours": 22
+               }
+            }
+         },
+         {
+            "startSeconds": 512799066,
+            "line": [
+               "Bellinge",
+               "Milardov",
+               "Page",
+               "Purdy",
+               "Silverma",
+               "Slader",
+               "Tran"
+            ],
+            "endSeconds": 512799128,
+            "events": [
+               {
+                  "timestamp": 512799066,
+                  "defender": "Bellinge",
+                  "type": "Defense",
+                  "action": "PullOb"
+               },
+               {
+                  "timestamp": 512799126,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 62,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 27,
+                  "ours": 22
+               }
+            }
+         },
+         {
+            "startSeconds": 512799184,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Corbett",
+               "Ham",
+               "Hume",
+               "Leggio",
+               "Smith"
+            ],
+            "endSeconds": 512799241,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Leggio",
+                  "timestamp": 512799184,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Smith",
+                  "timestamp": 512799196,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Cohen",
+                  "passer": "Hume",
+                  "timestamp": 512799200,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Cohen",
+                  "timestamp": 512799204,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Corbett",
+                  "timestamp": 512799210,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Bacon",
+                  "timestamp": 512799226,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Smith",
+                  "timestamp": 512799239,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 57,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 27,
+                  "ours": 23
+               }
+            }
+         },
+         {
+            "startSeconds": 512799279,
+            "line": [
+               "Bellinge",
+               "Corbett",
+               "Griffin",
+               "Leggio",
+               "Purdy",
+               "Silverma",
+               "Wu"
+            ],
+            "endSeconds": 512799285,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 982
+                  },
+                  "timestamp": 512799279,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512799283,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 6,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 28,
+                  "ours": 23
+               }
+            }
+         },
+         {
+            "startSeconds": 512799342,
+            "line": [
+               "Bellinge",
+               "Corbett",
+               "Ivers",
+               "Leggio",
+               "Purdy",
+               "Silverma",
+               "Wu"
+            ],
+            "endSeconds": 512799628,
+            "substitutions": [
+               {
+                  "fromPlayer": "Ham",
+                  "timestamp": 5.12799456E8,
+                  "reason": "other",
+                  "toPlayer": "Corbett"
+               },
+               {
+                  "fromPlayer": "Hume",
+                  "timestamp": 5.12799456E8,
+                  "reason": "other",
+                  "toPlayer": "Slader"
+               },
+               {
+                  "fromPlayer": "Parisi",
+                  "timestamp": 5.12799456E8,
+                  "reason": "other",
+                  "toPlayer": "Leggio"
+               },
+               {
+                  "fromPlayer": "Smith",
+                  "timestamp": 5.12799488E8,
+                  "reason": "other",
+                  "toPlayer": "Wu"
+               },
+               {
+                  "fromPlayer": "Bacon",
+                  "timestamp": 5.12799488E8,
+                  "reason": "other",
+                  "toPlayer": "Silverma"
+               },
+               {
+                  "fromPlayer": "Milardov",
+                  "timestamp": 5.12799488E8,
+                  "reason": "other",
+                  "toPlayer": "Bellinge"
+               },
+               {
+                  "fromPlayer": "Slaughte",
+                  "timestamp": 5.1279952E8,
+                  "reason": "other",
+                  "toPlayer": "Purdy"
+               },
+               {
+                  "fromPlayer": "Slader",
+                  "timestamp": 5.1279952E8,
+                  "reason": "other",
+                  "toPlayer": "Ivers"
+               }
+            ],
+            "events": [
+               {
+                  "receiver": "Milardov",
+                  "passer": "Slaughte",
+                  "timestamp": 512799342,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Parisi",
+                  "passer": "Milardov",
+                  "timestamp": 512799351,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Parisi",
+                  "timestamp": 512799354,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Smith",
+                  "passer": "Ham",
+                  "timestamp": 512799358,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Smith",
+                  "timestamp": 512799362,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Milardov",
+                  "passer": "Ham",
+                  "timestamp": 512799366,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Milardov",
+                  "timestamp": 512799372,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "timestamp": 512799626,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 286,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 29,
+                  "ours": 23
+               }
+            }
+         },
+         {
+            "startSeconds": 512799651,
+            "line": [
+               "Bacon",
+               "Bellinge",
+               "Corbett",
+               "Griffin",
+               "Ivers",
+               "Page",
+               "Slader"
+            ],
+            "endSeconds": 512799685,
+            "events": [
+               {
+                  "receiver": "Griffin",
+                  "passer": "Bacon",
+                  "timestamp": 512799651,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Anonymous",
+                  "timestamp": 512799671,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Griffin",
+                  "passer": "Anonymous",
+                  "timestamp": 512799676,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Slader",
+                  "passer": "Griffin",
+                  "timestamp": 512799683,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 34,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 29,
+                  "ours": 24
+               }
+            }
+         },
+         {
+            "startSeconds": 512799705,
+            "line": [
+               "Bellinge",
+               "Leggio",
+               "Milardov",
+               "Purdy",
+               "Silverma",
+               "Tran",
+               "Wu"
+            ],
+            "endSeconds": 512799714,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 1907
+                  },
+                  "timestamp": 512799705,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512799712,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 9,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 30,
+                  "ours": 24
+               }
+            }
+         },
+         {
+            "startSeconds": 512799769,
+            "line": [
+               "Bacon",
+               "Cohen",
+               "Corbett",
+               "Griffin",
+               "Hume",
+               "Smith",
+               "Wu"
+            ],
+            "endSeconds": 512799801,
+            "events": [
+               {
+                  "receiver": "Smith",
+                  "passer": "Griffin",
+                  "timestamp": 512799769,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Smith",
+                  "timestamp": 512799779,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Corbett",
+                  "timestamp": 512799783,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Corbett",
+                  "passer": "Hume",
+                  "timestamp": 512799787,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Wu",
+                  "passer": "Corbett",
+                  "timestamp": 512799791,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Bacon",
+                  "passer": "Wu",
+                  "timestamp": 512799799,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 32,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 30,
+                  "ours": 25
+               }
+            }
+         },
+         {
+            "startSeconds": 512799857,
+            "line": [
+               "Bellinge",
+               "Ham",
+               "Leggio",
+               "Milardov",
+               "Parisi",
+               "Purdy",
+               "Silverma"
+            ],
+            "endSeconds": 512799904,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 1988
+                  },
+                  "timestamp": 512799857,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512799871,
+                  "defender": "Milardov",
+                  "type": "Defense",
+                  "action": "D"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Milardov",
+                  "timestamp": 512799874,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Ham",
+                  "timestamp": 512799879,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Silverma",
+                  "passer": "Leggio",
+                  "timestamp": 512799883,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Leggio",
+                  "passer": "Silverma",
+                  "timestamp": 512799887,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Ham",
+                  "passer": "Leggio",
+                  "timestamp": 512799902,
+                  "type": "Offense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 47,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 30,
+                  "ours": 26
+               }
+            }
+         },
+         {
+            "startSeconds": 512799951,
+            "line": [
+               "Bellinge",
+               "Ham",
+               "Leggio",
+               "Milardov",
+               "Parisi",
+               "Purdy",
+               "Silverma"
+            ],
+            "endSeconds": 512799967,
+            "events": [
+               {
+                  "details": {
+                     "hangtime": 1494
+                  },
+                  "timestamp": 512799951,
+                  "type": "Defense",
+                  "defender": "Bellinge",
+                  "action": "Pull"
+               },
+               {
+                  "timestamp": 512799965,
+                  "defender": "Anonymous",
+                  "type": "Defense",
+                  "action": "Goal"
+               }
+            ],
+            "summary": {
+               "elapsedTime": 16,
+               "finished": true,
+               "lineType": "D",
+               "score": {
+                  "theirs": 31,
+                  "ours": 26
+               }
+            }
+         },
+         {
+            "startSeconds": 512800022,
+            "line": [
+               "Bacon",
+               "Corbett",
+               "Griffin",
+               "Hume",
+               "Ivers",
+               "Slader",
+               "Smith"
+            ],
+            "endSeconds": 512800045,
+            "events": [
+               {
+                  "receiver": "Griffin",
+                  "passer": "Ivers",
+                  "timestamp": 512800022,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Hume",
+                  "passer": "Griffin",
+                  "timestamp": 512800031,
+                  "type": "Offense",
+                  "action": "Catch"
+               },
+               {
+                  "receiver": "Anonymous",
+                  "passer": "Hume",
+                  "timestamp": 512800036,
+                  "type": "Offense",
+                  "action": "Throwaway"
+               },
+               {
+                  "type": "Cessation",
+                  "action": "GameOver",
+                  "timestamp": 512800043
+               }
+            ],
+            "summary": {
+               "elapsedTime": 23,
+               "finished": true,
+               "lineType": "O",
+               "score": {
+                  "theirs": 31,
+                  "ours": 26
+               }
+            }
+         }
+      ],
+      "wind": {
+         "mph": 0,
+         "degrees": -1,
+         "leftToRight": true
+      },
+      "timestamp": "2017-04-01 19:02",
+      "date": "Sat, 4/01",
+      "time": "7:02",
+      "msSinceEpoch": 1491073320000,
+      "ours": 26,
+      "theirs": 31,
+      "timeoutDetailsJson": {
+         "quotaFloaters": 0,
+         "quotaPerHalf": 2,
+         "takenFirstHalf": 2,
+         "takenSecondHalf": 1
+      },
+      "lastUpdateUtc": "2017-04-02 08:50",
+      "deleted": false,
+      "positional": false,
+      "previousVersionAvailable": true,
+      "firstPointOline": false
+   }
+]
+

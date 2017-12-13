@@ -12,14 +12,14 @@ def main():
         clusters.append(cluster.points)
     with open("output.txt", "a")   as out:
         out.write("\n\nClusters:")
-        out.write("\n\nOrder of Features: numPasses, numTouches, totalPointsPlayed, ours, theirs, totalPoints, wind, time, date, day, lineType, pull_start, poss_count, scored")
+        out.write("\n\nOrder of Features: numPasses,numTouches, lineType, pull_start, poss_count, scored")
         for cluster in clusters:
             out.write("\n\nCluster" + str(cluster))
         out.write("\n\nNumClusters: " + str(len(clusters)))
         out.write("\n\nNumPerCluster: " + str([len(x) for x in clusters]))
-        coh, sep = evaluate_cluster(clusters)
-        out.write("\n\nCohesion: " + str(coh))
-        out.write("\n\nSeperation:  " + str(sep))
+        #coh, sep = evaluate_cluster(clusters)
+        #out.write("\n\nCohesion: " + str(coh))
+        #out.write("\n\nSeperation:  " + str(sep))
 
 
 def get_distance( a, b):  # euclidean distance between two n-dimensional points

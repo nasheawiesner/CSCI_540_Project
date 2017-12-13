@@ -73,7 +73,7 @@ class K_Means:
 
     def get_distance(self, a, b):  # euclidean distance between two n-dimensional points
         difference = 0.0
-        for i in range(len(a)):
+        for i in range(len(a)-1):
             squareDifference = pow(((a[i]) - b[i]), 2)
             difference += squareDifference
         distance = math.sqrt(difference)
@@ -133,7 +133,7 @@ class Cluster:
 
     def get_distance(self, a, b):  # euclidean distance between two n-dimensional points
         difference = 0.0
-        for i in range(len(a)):
+        for i in range(len(a)-1):
             squareDifference = pow(((a[i]) - b[i]), 2)
             difference += squareDifference
         distance = math.sqrt(difference)
